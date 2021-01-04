@@ -1,0 +1,17 @@
+.search {
+  position: relative;
+  input {
+    background-color: #ccc;
+    height: 30px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid;
+    padding: 10px;
+    font-family: 'Audiowide', cursive;
+  }
+  a {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+  }
+}
